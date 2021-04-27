@@ -1,9 +1,6 @@
 # Social Data Analysis and Visualization: Final Project. Search and frisk in NYC.
 
 # Data description 
-</content/borough_map.html>
-
-{% include {{ /content/borough_map.html }} %} where filename points to the html file.
 
 # Method description
 
