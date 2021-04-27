@@ -3,7 +3,7 @@
 # Data description 
 </content/borough_map.html>
 
-{% include {{ /content/borough_map.html | prepend:site.baseurl }} %} where filename points to the html file.
+{% include {{ /content/borough_map.html }} %} where filename points to the html file.
 
 # Method description
 
